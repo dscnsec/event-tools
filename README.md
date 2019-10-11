@@ -1,3 +1,5 @@
+<p align="center"><img src="poster_event.jpeg"></p>
+
 # event-tools
 Helper tools for events which make the life of organizers, speakers and attendees easier! 
 
