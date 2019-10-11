@@ -12,4 +12,10 @@ We currently have the following tools in mind - feel free to include your own id
 
 You may not be willing to work on all the above ideas, just apply for the idea that appeals you! If you have anything else in mind, go ahead and apply for that! Talk to the mentors about the feasibility of your ideas in the [Slack Workspace](http://tiny.cc/dscnsec-slack)
 
-Mentors: Anurag Singh, Aniket Kumar
+### Mentors: 
+
+| Name | Github |
+| -- | -- |
+| Aniket Kumar | [ani4aniket](https://github.com/ani4aniket) |
+| Anurag Singh | [anuragsingh228](https://github.com/anuragsingh228) |
+
